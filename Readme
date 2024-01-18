@@ -1,0 +1,53 @@
+Space Shooter Game - Tacos Invade
+Overview
+
+This is a simple space shooter game developed in Python using Pygame. It was my first Python project back in 2018. The game features a player-controlled spaceship that shoots bullets at an enemy (depicted as a taco). When a bullet hits the taco, it explodes, and the taco reappears in a random location on the screen.
+Features
+
+    Player-controlled spaceship that can move left and right.
+    Space-themed background.
+    Enemies (tacos) that appear at random positions.
+    Bullets fired by the player's spaceship.
+    Collision detection between bullets and enemies.
+    Explosions that appear when bullets hit enemies.
+
+Requirements
+
+    Python 3.x
+    Pygame
+
+Setup
+
+To set up the game, you need to have Python and Pygame installed on your computer. If you don't have Python installed, you can download it from the official Python website: Python Download. To install Pygame, run the following command:
+
+pip install pygame
+
+Running the Game
+
+To run the game, navigate to the directory containing the game files and run the Python script. For example:
+
+bash
+
+cd path/to/game
+python main.py
+
+Controls
+
+    Use the left and right arrow keys to move the spaceship.
+    Press the up arrow key to shoot bullets.
+
+Assets
+
+The game uses several image files for the spaceship, bullet, enemy, and explosion. These images are essential for the visual elements of the game.
+Future Enhancements
+
+This project is open to enhancements and improvements. Potential future updates include:
+
+    Adding a scoring system.
+    Introducing multiple levels with increasing difficulty.
+    Implementing sound effects and background music.
+    Creating a variety of enemies with different behaviors.
+
+License
+
+This project is open-source and free to use. If you're using or modifying it, please give credit.
